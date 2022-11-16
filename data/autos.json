@@ -1,0 +1,46 @@
+[
+    {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "color": "Rojo",
+        "anio": 2020,
+        "km": 25442,
+        "precio": 350000,
+        "cuotas": 24,
+        "patente": "IFB376",
+        "vendido": true
+    },
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "color": "Azul",
+        "anio": 2010,
+        "km": 254698,
+        "precio": 100000,
+        "cuotas": 14,
+        "patente": "ABC534",
+        "vendido": true
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Eco Sport",
+        "color": "Amarillo",
+        "anio": 2018,
+        "km": 0,
+        "precio": 200000,
+        "cuotas": 20,
+        "patente": "IFB377",
+        "vendido": false
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "color": "Verde",
+        "anio": 2005,
+        "km": 299439,
+        "precio": 50000,
+        "cuotas": 11,
+        "patente": "FGH123",
+        "vendido": false
+    }
+]
